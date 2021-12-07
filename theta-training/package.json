@@ -1,0 +1,30 @@
+{
+  "name": "theta-training",
+  "version": "1.0.0",
+  "description": "Theta Training",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "marko": "^4.4.21",
+    "mongoose": "^4.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedro1337/theta-training-v1.git"
+  },
+  "keywords": [
+    "docker",
+    "alura"
+  ],
+  "author": "João Pedro Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopedro1337/theta-training-v1/issues"
+  },
+  "homepage": "#"
+}
